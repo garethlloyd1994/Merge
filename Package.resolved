@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "swallow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vmanot/Swallow.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "4ce2af928f1327b34c00dc35d542e6f3fd1077b5"
+      }
+    },
+    {
+      "identity" : "swift-async-algorithms",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-async-algorithms",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4a1fb99f0089a9d9db07859bcad55b4a77e3c3dd"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections",
+      "state" : {
+        "branch" : "release/1.1",
+        "revision" : "873690c60e35d647e10b0d0d69799abae2001234"
+      }
+    },
+    {
+      "identity" : "swiftuix",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/garethlloyd1994/SwiftUIX.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "713211a054a5409886796587e114ff992bf7b43d"
+      }
+    }
+  ],
+  "version" : 2
+}
